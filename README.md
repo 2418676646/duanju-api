@@ -126,10 +126,15 @@ INSERT INTO short_plays (play_name, play_url) VALUES
 - 在对数据库进行操作时，请确保遵守相关的安全最佳实践，包括对SQL注入的防护。
 
   
+## 注意事项
+- 带后台版本估计3.1号免费开源
+- Wecaht：dubear_
 
 ## 支持
 
 如在对接过程中遇到任何问题，请联系我
 
 - 技术支持邮箱：namexiong@vip.qq.com
+  
+- ![Keyboard with 'mak'](https://github.com/2418676646/duanju-api/blob/main/A0.png "Keyboard with 'mak'")
 
