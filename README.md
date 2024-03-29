@@ -132,8 +132,8 @@ INSERT INTO short_plays (play_name, play_url) VALUES
 
 ## 支持
 如在对接过程中遇到任何问题，请联系我
-- Wecaht：dubear_
-- tg:<a href="https://t.me/+qzJ8BZMCbXI1NDg1" target="_blank">
+- Wecaht：dubear_ 
+- tg:<a href="https://t.me/+qzJ8BZMCbXI1NDg1" target="_blank"> </a>
 
 
 
