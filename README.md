@@ -127,20 +127,20 @@ INSERT INTO short_plays (play_name, play_url) VALUES
 
   
 ## 注意事项
-- 带后台版本估计3.1号免费开源
+- 解析需要注意解析编码问题
 - Wecaht：dubear_
 
 ## 支持
-
 如在对接过程中遇到任何问题，请联系我
-<ol>
-    <li>
-        <a href="https://t.me/+qzJ8BZMCbXI1NDg1" target="_blank">
-            <img class="tg-icon" src="https://telegram.org/img/t_logo.png" alt="MarkW Telegram Icon" />
-        </a>
-    </li>
-    <!-- More list items here -->
-</ol>
+- Wecaht：dubear_
+- tg:<a href="https://t.me/+qzJ8BZMCbXI1NDg1" target="_blank">
+
+
+
+## 其他
+- 带后台版本估计3.1号免费开源
+- Wecaht：dubear_
+
   
-- ![1.png](https://s2.loli.net/2024/03/29/bUMI691NYCPKcya.png)
+ ![1.png](https://s2.loli.net/2024/03/29/bUMI691NYCPKcya.png)
 
