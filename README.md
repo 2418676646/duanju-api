@@ -133,22 +133,11 @@ INSERT INTO short_plays (play_name, play_url) VALUES
 ## 支持
 
 如在对接过程中遇到任何问题，请联系我
-
-- 技术支持邮箱：namexiong@vip.qq.com
-- <style>
-    .tg-icon {
-        vertical-align: middle; /* Adjusts the icon to align with the middle of the text */
-        height: 20px;          /* Adjusts the size of the icon */
-        width: 20px;           /* Adjusts the size of the icon */
-    }
-</style>
-
 <ol>
     <li>
         <a href="https://t.me/+qzJ8BZMCbXI1NDg1" target="_blank">
             <img class="tg-icon" src="https://telegram.org/img/t_logo.png" alt="MarkW Telegram Icon" />
         </a>
-        Description for the first item.
     </li>
     <!-- More list items here -->
 </ol>
