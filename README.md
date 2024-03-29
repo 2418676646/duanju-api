@@ -136,5 +136,5 @@ INSERT INTO short_plays (play_name, play_url) VALUES
 
 - 技术支持邮箱：namexiong@vip.qq.com
   
-- ![Keyboard with 'mak'](https://github.com/2418676646/duanju-api/blob/main/1.png "Keyboard with 'mak'")
+- ！[1.png]（https://s2.loli.net/2024/03/29/bUMI691NYCPKcya.png）
 
