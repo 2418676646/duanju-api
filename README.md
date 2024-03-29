@@ -136,5 +136,5 @@ INSERT INTO short_plays (play_name, play_url) VALUES
 
 - 技术支持邮箱：namexiong@vip.qq.com
   
-- ！[1.png]（https://s2.loli.net/2024/03/29/bUMI691NYCPKcya.png）
+- ![1.png](https://s2.loli.net/2024/03/29/bUMI691NYCPKcya.png)
 
