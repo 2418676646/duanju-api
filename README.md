@@ -133,7 +133,7 @@ INSERT INTO short_plays (play_name, play_url) VALUES
 ## 支持
 如在对接过程中遇到任何问题，请联系我
 - Wecaht：dubear_ 
-- tg：[TG](https://t.me/+qzJ8BZMCbXI1NDg1)
+- tg：[微信交流群](http://qr61.cn/osSEmk/q4uGVJn)
 
 
 
