@@ -137,10 +137,9 @@ INSERT INTO short_plays (play_name, play_url) VALUES
 
 
 
-## 其他
-- 带后台版本估计3.1号免费开源
+## 2024.3.31
+- 用户反馈建议做一个带后台版本，因为小白不方便，特在原来的基础上开发了一个带后台的版本
 - Wecaht：dubear_
 
-  
- ![1.png](https://s2.loli.net/2024/03/29/bUMI691NYCPKcya.png)
+![A0.png](https://s2.loli.net/2024/03/31/phNRxC3H2InUb8j.png)
 
