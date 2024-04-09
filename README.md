@@ -1,5 +1,9 @@
+##最新修复版v1.2
+[https://pan.quark.cn/s/885e68dd32d5](https://pan.quark.cn/s/885e68dd32d5)
+
 ## 2024.4.5
 已经开发出带前端查询页面
+
 
 下载地址：[前往](https://pan.quark.cn/s/895170418afc)
 
